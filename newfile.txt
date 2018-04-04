@@ -1,1 +1,2 @@
-this is new file in clone directory
+this is new file in clone directory.
+
